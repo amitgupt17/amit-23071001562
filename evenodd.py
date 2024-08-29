@@ -4,3 +4,10 @@ if num%2==0:
 
 else:
     print(num,"is odd")
+
+output
+
+
+
+Enter the number = 9
+9 is odd
